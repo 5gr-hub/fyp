@@ -1,0 +1,353 @@
+{
+  "patients": [
+    {
+      "id": "MUB-001",
+      "full_name": "Mary Nalubega",
+      "sex": "female",
+      "date_of_birth": "1990-05-20",
+      "identifier": "CM19900520MUB001",
+      "phone": "+256711234567",
+      "district": "Mubende",
+      "village": "Mubende Town",
+      "registered": "2023-01-08",
+      "active": true,
+      "blood_group": "O+",
+      "allergies": "NKDA",
+      "chronic_conditions": "None",
+      "next_of_kin_name": "Paul Nalubega",
+      "next_of_kin_phone": "+256711234568",
+      "next_of_kin_relation": "Husband"
+    },
+    {
+      "id": "MUB-002",
+      "full_name": "James Ssemwogerere",
+      "sex": "male",
+      "date_of_birth": "1972-10-05",
+      "identifier": "CM19721005MUB002",
+      "phone": "+256712345678",
+      "district": "Mubende",
+      "village": "Kitenga",
+      "registered": "2023-02-20",
+      "active": true,
+      "blood_group": "A+",
+      "allergies": "Penicillin",
+      "chronic_conditions": "Hypertension, Gout",
+      "next_of_kin_name": "Anne Ssemwogerere",
+      "next_of_kin_phone": "+256712345679",
+      "next_of_kin_relation": "Wife"
+    },
+    {
+      "id": "MUB-003",
+      "full_name": "Agnes Nabirye",
+      "sex": "female",
+      "date_of_birth": "2005-03-18",
+      "identifier": "CM20050318MUB003",
+      "phone": "+256713456789",
+      "district": "Kassanda",
+      "village": "Kassanda Town",
+      "registered": "2023-03-12",
+      "active": true,
+      "blood_group": "B+",
+      "allergies": "NKDA",
+      "chronic_conditions": "None",
+      "next_of_kin_name": "Christine Nabirye",
+      "next_of_kin_phone": "+256713456780",
+      "next_of_kin_relation": "Mother"
+    },
+    {
+      "id": "MUB-004",
+      "full_name": "Michael Kagwa",
+      "sex": "male",
+      "date_of_birth": "1983-12-12",
+      "identifier": "CM19831212MUB004",
+      "phone": "+256714567890",
+      "district": "Mubende",
+      "village": "Kalwana",
+      "registered": "2023-04-05",
+      "active": true,
+      "blood_group": "AB+",
+      "allergies": "NSAIDs",
+      "chronic_conditions": "Diabetes Type 2",
+      "next_of_kin_name": "Sarah Kagwa",
+      "next_of_kin_phone": "+256714567891",
+      "next_of_kin_relation": "Wife"
+    },
+    {
+      "id": "MUB-005",
+      "full_name": "Beatrice Namulindwa",
+      "sex": "female",
+      "date_of_birth": "1997-07-25",
+      "identifier": "CM19970725MUB005",
+      "phone": "+256715678901",
+      "district": "Mityana",
+      "village": "Mityana Town",
+      "registered": "2023-05-16",
+      "active": true,
+      "blood_group": "O-",
+      "allergies": "Sulphonamides",
+      "chronic_conditions": "None",
+      "next_of_kin_name": "David Namulindwa",
+      "next_of_kin_phone": "+256715678902",
+      "next_of_kin_relation": "Husband"
+    },
+    {
+      "id": "MUB-006",
+      "full_name": "Peter Matovu",
+      "sex": "male",
+      "date_of_birth": "2000-09-01",
+      "identifier": "CM20000901MUB006",
+      "phone": "+256716789012",
+      "district": "Mubende",
+      "village": "Madudu",
+      "registered": "2023-06-28",
+      "active": true,
+      "blood_group": "A-",
+      "allergies": "NKDA",
+      "chronic_conditions": "Asthma",
+      "next_of_kin_name": "Ruth Matovu",
+      "next_of_kin_phone": "+256716789013",
+      "next_of_kin_relation": "Mother"
+    },
+    {
+      "id": "MUB-007",
+      "full_name": "Jane Nakigozi",
+      "sex": "female",
+      "date_of_birth": "1965-11-30",
+      "identifier": "CM19651130MUB007",
+      "phone": "+256717890123",
+      "district": "Kassanda",
+      "village": "Myanzi",
+      "registered": "2023-07-14",
+      "active": true,
+      "blood_group": "B-",
+      "allergies": "Aspirin, Ibuprofen",
+      "chronic_conditions": "Arthritis, Hypertension",
+      "next_of_kin_name": "Joseph Nakigozi",
+      "next_of_kin_phone": "+256717890124",
+      "next_of_kin_relation": "Son"
+    },
+    {
+      "id": "MUB-008",
+      "full_name": "Joseph Ssebugwawo",
+      "sex": "male",
+      "date_of_birth": "1980-04-07",
+      "identifier": "CM19800407MUB008",
+      "phone": "+256718901234",
+      "district": "Mubende",
+      "village": "Buwekula",
+      "registered": "2023-08-03",
+      "active": true,
+      "blood_group": "O+",
+      "allergies": "Codeine",
+      "chronic_conditions": "HIV on ART",
+      "next_of_kin_name": "Mary Ssebugwawo",
+      "next_of_kin_phone": "+256718901235",
+      "next_of_kin_relation": "Wife"
+    },
+    {
+      "id": "MUB-009",
+      "full_name": "Martha Nanfuka",
+      "sex": "female",
+      "date_of_birth": "1993-01-14",
+      "identifier": "CM19930114MUB009",
+      "phone": "+256719012345",
+      "district": "Mityana",
+      "village": "Mityana Town",
+      "registered": "2023-09-25",
+      "active": true,
+      "blood_group": "A+",
+      "allergies": "NKDA",
+      "chronic_conditions": "None",
+      "next_of_kin_name": "Peter Nanfuka",
+      "next_of_kin_phone": "+256719012346",
+      "next_of_kin_relation": "Husband"
+    },
+    {
+      "id": "MUB-010",
+      "full_name": "Charles Kiggundu",
+      "sex": "male",
+      "date_of_birth": "2008-06-22",
+      "identifier": "CM20080622MUB010",
+      "phone": "+256710123456",
+      "district": "Mubende",
+      "village": "Kitenga",
+      "registered": "2023-10-11",
+      "active": true,
+      "blood_group": "AB-",
+      "allergies": "NKDA",
+      "chronic_conditions": "None",
+      "next_of_kin_name": "Grace Kiggundu",
+      "next_of_kin_phone": "+256710123457",
+      "next_of_kin_relation": "Mother"
+    }
+  ],
+  "queue": [
+    {
+      "id": "Q-1776194192741-m7ph",
+      "patient_id": "MUB-002",
+      "patient_name": "James Ssemwogerere",
+      "complaint": "fever, heachache, back pain",
+      "priority": "normal",
+      "department": "OPD",
+      "status": "in_consultation",
+      "arrived_at": "2026-04-14T19:16:32.741Z",
+      "triage_id": "TRG-1776194231231-qk4s",
+      "encounter_id": "ENC-1776194336460-pyoi",
+      "seen_at": null,
+      "clinician": null
+    }
+  ],
+  "triage": [
+    {
+      "id": "TRG-1776194231231-qk4s",
+      "queue_id": "Q-1776194192741-m7ph",
+      "patient_id": "MUB-002",
+      "patient_name": "James Ssemwogerere",
+      "vitals": {
+        "bp_systolic": "120",
+        "bp_diastolic": "80",
+        "heart_rate": "90",
+        "temperature": "37",
+        "resp_rate": "98",
+        "spo2": "90",
+        "weight": "92",
+        "height": "195",
+        "muac": "",
+        "bmi": "24.2",
+        "pulse_pressure": 40
+      },
+      "triage_category": "non-urgent",
+      "triaged_by": "Nurse Nantume",
+      "triaged_at": "2026-04-14T19:17:11.231Z",
+      "notes": "normal"
+    }
+  ],
+  "encounters": [
+    {
+      "id": "ENC-1776194336460-pyoi",
+      "patient_id": "MUB-002",
+      "patient_name": "James Ssemwogerere",
+      "queue_id": "Q-1776194192741-m7ph",
+      "triage_id": "TRG-1776194231231-qk4s",
+      "subjective": {
+        "chief_complaint": "fever, heachache, back pain",
+        "history": "one week",
+        "past_medical_history": "N/a",
+        "surgical_history": "No surgical history",
+        "family_history": "Diabetes",
+        "social_history": "Smooking",
+        "current_medications": "N/A",
+        "allergies": "Paracetamol"
+      },
+      "objective": {
+        "general_appearance": "Normal",
+        "cvs": "Normal",
+        "rs": "Normal",
+        "git": "Normal",
+        "cns": "Normal",
+        "msk": "Normal",
+        "examination_findings": "CVS: Normal\nRS: Normal\nGIT: Normal\nCNS: Normal\nMSK: Normal\nGeneral: Normal",
+        "vitals_summary": ""
+      },
+      "assessment": {
+        "diagnosis": "Plasmodiim malara",
+        "icd_code": "b509",
+        "differential": "Na"
+      },
+      "plan": {
+        "treatment": "",
+        "investigations": "",
+        "medications_prescribed": "",
+        "follow_up": "",
+        "referral_needed": false,
+        "notes": ""
+      },
+      "clinician": "Dr. Namukasa",
+      "created_at": "2026-04-14T19:18:56.461Z"
+    }
+  ],
+  "lab_requests": [],
+  "inventory": [
+    {
+      "id": "MED-001",
+      "name": "Artemether-Lumefantrine (ALU)",
+      "category": "tablet",
+      "unit": "Tablets",
+      "stock": 800,
+      "min_stock": 80
+    },
+    {
+      "id": "MED-002",
+      "name": "Amoxicillin 250mg",
+      "category": "capsule",
+      "unit": "Capsules",
+      "stock": 600,
+      "min_stock": 60
+    },
+    {
+      "id": "MED-003",
+      "name": "Paracetamol 500mg",
+      "category": "tablet",
+      "unit": "Tablets",
+      "stock": 2000,
+      "min_stock": 200
+    },
+    {
+      "id": "MED-004",
+      "name": "ORS Sachets",
+      "category": "other",
+      "unit": "Sachets",
+      "stock": 400,
+      "min_stock": 40
+    },
+    {
+      "id": "MED-005",
+      "name": "Metronidazole 400mg",
+      "category": "tablet",
+      "unit": "Tablets",
+      "stock": 300,
+      "min_stock": 30
+    },
+    {
+      "id": "MED-006",
+      "name": "Morphine Sulphate 10mg",
+      "category": "injection",
+      "unit": "Ampoules",
+      "stock": 50,
+      "min_stock": 10
+    },
+    {
+      "id": "MED-007",
+      "name": "Dexamethasone 8mg",
+      "category": "injection",
+      "unit": "Ampoules",
+      "stock": 80,
+      "min_stock": 15
+    },
+    {
+      "id": "MED-008",
+      "name": "IV Fluids Normal Saline 1L",
+      "category": "fluid",
+      "unit": "Bags",
+      "stock": 120,
+      "min_stock": 30
+    },
+    {
+      "id": "MED-009",
+      "name": "Ceftriaxone 1g",
+      "category": "injection",
+      "unit": "Vials",
+      "stock": 60,
+      "min_stock": 15
+    },
+    {
+      "id": "MED-010",
+      "name": "Diazepam 10mg/2ml",
+      "category": "injection",
+      "unit": "Ampoules",
+      "stock": 45,
+      "min_stock": 10
+    }
+  ],
+  "dispensing": []
+}
