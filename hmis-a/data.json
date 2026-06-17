@@ -1,0 +1,517 @@
+{
+  "patients": [
+    {
+      "id": "KAK-001",
+      "full_name": "Aisha Nakato",
+      "sex": "female",
+      "date_of_birth": "1995-03-15",
+      "identifier": "CM19950315KAK001",
+      "phone": "+256701234567",
+      "district": "Kakumiro",
+      "village": "Nkooko",
+      "registered": "2023-01-10",
+      "active": true,
+      "blood_group": "A+",
+      "allergies": "Penicillin",
+      "chronic_conditions": "None",
+      "next_of_kin_name": "Hassan Nakato",
+      "next_of_kin_phone": "+256701234568",
+      "next_of_kin_relation": "Spouse"
+    },
+    {
+      "id": "KAK-002",
+      "full_name": "John Mutebi",
+      "sex": "male",
+      "date_of_birth": "1988-07-22",
+      "identifier": "CM19880722KAK002",
+      "phone": "+256702345678",
+      "district": "Kakumiro",
+      "village": "Kakumiro Town",
+      "registered": "2023-02-14",
+      "active": true,
+      "blood_group": "O+",
+      "allergies": "NKDA",
+      "chronic_conditions": "Hypertension",
+      "next_of_kin_name": "Rose Mutebi",
+      "next_of_kin_phone": "+256702345679",
+      "next_of_kin_relation": "Wife"
+    },
+    {
+      "id": "KAK-003",
+      "full_name": "Grace Atukunda",
+      "sex": "female",
+      "date_of_birth": "2001-11-08",
+      "identifier": "CM20011108KAK003",
+      "phone": "+256703456789",
+      "district": "Kiboga",
+      "village": "Lwamata",
+      "registered": "2023-03-05",
+      "active": true,
+      "blood_group": "B+",
+      "allergies": "Sulphonamides",
+      "chronic_conditions": "Asthma",
+      "next_of_kin_name": "Peter Atukunda",
+      "next_of_kin_phone": "+256703456780",
+      "next_of_kin_relation": "Father"
+    },
+    {
+      "id": "KAK-004",
+      "full_name": "Patrick Ssemakula",
+      "sex": "male",
+      "date_of_birth": "1975-04-30",
+      "identifier": "CM19750430KAK004",
+      "phone": "+256704567890",
+      "district": "Mubende",
+      "village": "Madudu",
+      "registered": "2023-04-18",
+      "active": true,
+      "blood_group": "AB+",
+      "allergies": "NKDA",
+      "chronic_conditions": "Diabetes Type 2, Hypertension",
+      "next_of_kin_name": "Jane Ssemakula",
+      "next_of_kin_phone": "+256704567891",
+      "next_of_kin_relation": "Wife"
+    },
+    {
+      "id": "KAK-005",
+      "full_name": "Florence Nakabuye",
+      "sex": "female",
+      "date_of_birth": "1992-09-12",
+      "identifier": "CM19920912KAK005",
+      "phone": "+256705678901",
+      "district": "Kakumiro",
+      "village": "Bujuni",
+      "registered": "2023-05-22",
+      "active": true,
+      "blood_group": "O-",
+      "allergies": "Aspirin",
+      "chronic_conditions": "None",
+      "next_of_kin_name": "Robert Nakabuye",
+      "next_of_kin_phone": "+256705678902",
+      "next_of_kin_relation": "Husband"
+    },
+    {
+      "id": "KAK-006",
+      "full_name": "Robert Kasibante",
+      "sex": "male",
+      "date_of_birth": "2003-01-25",
+      "identifier": "CM20030125KAK006",
+      "phone": "+256706789012",
+      "district": "Kibaale",
+      "village": "Kagadi",
+      "registered": "2023-06-07",
+      "active": true,
+      "blood_group": "A-",
+      "allergies": "NKDA",
+      "chronic_conditions": "None",
+      "next_of_kin_name": "Mary Kasibante",
+      "next_of_kin_phone": "+256706789013",
+      "next_of_kin_relation": "Mother"
+    },
+    {
+      "id": "KAK-007",
+      "full_name": "Harriet Babirye",
+      "sex": "female",
+      "date_of_birth": "1985-06-17",
+      "identifier": "CM19850617KAK007",
+      "phone": "+256707890123",
+      "district": "Kakumiro",
+      "village": "Mugarama",
+      "registered": "2023-07-30",
+      "active": true,
+      "blood_group": "B-",
+      "allergies": "Codeine",
+      "chronic_conditions": "HIV on ART",
+      "next_of_kin_name": "James Babirye",
+      "next_of_kin_phone": "+256707890124",
+      "next_of_kin_relation": "Brother"
+    },
+    {
+      "id": "KAK-008",
+      "full_name": "Emmanuel Ssenyonjo",
+      "sex": "male",
+      "date_of_birth": "1998-12-03",
+      "identifier": "CM19981203KAK008",
+      "phone": "+256708901234",
+      "district": "Kiboga",
+      "village": "Kiboga Town",
+      "registered": "2023-08-11",
+      "active": true,
+      "blood_group": "O+",
+      "allergies": "NKDA",
+      "chronic_conditions": "Epilepsy",
+      "next_of_kin_name": "Grace Ssenyonjo",
+      "next_of_kin_phone": "+256708901235",
+      "next_of_kin_relation": "Sister"
+    },
+    {
+      "id": "KAK-009",
+      "full_name": "Sarah Namukasa",
+      "sex": "female",
+      "date_of_birth": "2010-02-28",
+      "identifier": "CM20100228KAK009",
+      "phone": "+256709012345",
+      "district": "Kakumiro",
+      "village": "Nkooko",
+      "registered": "2023-09-19",
+      "active": true,
+      "blood_group": "A+",
+      "allergies": "NKDA",
+      "chronic_conditions": "None",
+      "next_of_kin_name": "Alice Namukasa",
+      "next_of_kin_phone": "+256709012346",
+      "next_of_kin_relation": "Mother"
+    },
+    {
+      "id": "KAK-010",
+      "full_name": "David Kizza",
+      "sex": "male",
+      "date_of_birth": "1967-08-14",
+      "identifier": "CM19670814KAK010",
+      "phone": "+256700123456",
+      "district": "Mubende",
+      "village": "Kassanda",
+      "registered": "2023-10-02",
+      "active": true,
+      "blood_group": "AB-",
+      "allergies": "NSAIDs",
+      "chronic_conditions": "CKD Stage 3, Hypertension",
+      "next_of_kin_name": "Sarah Kizza",
+      "next_of_kin_phone": "+256700123457",
+      "next_of_kin_relation": "Wife"
+    },
+    {
+      "id": "KAK-011",
+      "full_name": "Levi Mark Kembe",
+      "sex": "male",
+      "date_of_birth": "1996-04-01",
+      "identifier": "H0001",
+      "phone": "0922328046",
+      "district": "",
+      "village": "",
+      "registered": "2026-04-13",
+      "active": true,
+      "blood_group": "",
+      "allergies": "NKDA",
+      "chronic_conditions": "None",
+      "next_of_kin_name": "",
+      "next_of_kin_phone": "",
+      "next_of_kin_relation": ""
+    },
+    {
+      "id": "KAK-012",
+      "full_name": "Thomas Luciano",
+      "sex": "male",
+      "date_of_birth": "2021-08-01",
+      "identifier": "Mh099w",
+      "phone": "0980266312",
+      "district": "Juba",
+      "village": "Wau",
+      "registered": "2026-04-13",
+      "active": true,
+      "blood_group": "",
+      "allergies": "NKDA",
+      "chronic_conditions": "None",
+      "next_of_kin_name": "",
+      "next_of_kin_phone": "",
+      "next_of_kin_relation": ""
+    }
+  ],
+  "queue": [
+    {
+      "id": "Q-1776085330903-1x83",
+      "patient_id": "KAK-001",
+      "patient_name": "Aisha Nakato",
+      "complaint": "hd",
+      "priority": "normal",
+      "status": "in_consultation",
+      "arrived_at": "2026-04-13T13:02:10.903Z",
+      "triage_id": "TRG-1776085376271-arto",
+      "encounter_id": "ENC-1776085494570-3xeq",
+      "seen_at": null,
+      "clinician": null
+    }
+  ],
+  "triage": [
+    {
+      "id": "TRG-1776085376271-arto",
+      "queue_id": "Q-1776085330903-1x83",
+      "patient_id": "KAK-001",
+      "patient_name": "Aisha Nakato",
+      "vitals": {
+        "bp_systolic": "120",
+        "bp_diastolic": "90",
+        "heart_rate": "98",
+        "temperature": "37",
+        "resp_rate": "90",
+        "spo2": "28",
+        "weight": "89",
+        "height": "189",
+        "muac": "",
+        "bmi": "24.9",
+        "pulse_pressure": 30
+      },
+      "triage_category": "non-urgent",
+      "triaged_by": "Nurse Akello",
+      "triaged_at": "2026-04-13T13:02:56.271Z",
+      "notes": ""
+    }
+  ],
+  "encounters": [
+    {
+      "id": "ENC-1776085494570-3xeq",
+      "patient_id": "KAK-001",
+      "patient_name": "Aisha Nakato",
+      "queue_id": "Q-1776085330903-1x83",
+      "triage_id": "TRG-1776085376271-arto",
+      "subjective": {
+        "chief_complaint": "headache, fever, back pain",
+        "history": "seven days",
+        "past_medical_history": "N/A",
+        "surgical_history": "Appendectomy 2018",
+        "family_history": "N/A",
+        "social_history": "Smooking",
+        "current_medications": "N/A",
+        "allergies": ""
+      },
+      "objective": {
+        "general_appearance": "Pale",
+        "cvs": "",
+        "rs": "",
+        "git": "",
+        "cns": "",
+        "msk": "",
+        "examination_findings": "General: Pale",
+        "vitals_summary": ""
+      },
+      "assessment": {
+        "diagnosis": "Malaria",
+        "icd_code": "",
+        "differential": ""
+      },
+      "plan": {
+        "treatment": "",
+        "investigations": "",
+        "medications_prescribed": "",
+        "follow_up": "",
+        "referral_needed": false,
+        "notes": ""
+      },
+      "clinician": "Dr. Mukasa",
+      "created_at": "2026-04-13T13:04:54.570Z"
+    }
+  ],
+  "lab_requests": [
+    {
+      "id": "LAB-1776085533430-fnxe",
+      "patient_id": "KAK-001",
+      "patient_name": "Aisha Nakato",
+      "test_type": "Urinalysis",
+      "category": "lab",
+      "components": [
+        {
+          "name": "Colour",
+          "unit": "",
+          "reference": "Pale yellow",
+          "value": "yellow"
+        },
+        {
+          "name": "Clarity",
+          "unit": "",
+          "reference": "Clear",
+          "value": "nil"
+        },
+        {
+          "name": "pH",
+          "unit": "",
+          "reference": "4.5–8.0",
+          "value": "2-6"
+        },
+        {
+          "name": "Specific Gravity",
+          "unit": "",
+          "reference": "1.003–1.030",
+          "value": "nil"
+        },
+        {
+          "name": "Protein",
+          "unit": "",
+          "reference": "Negative",
+          "value": "6"
+        },
+        {
+          "name": "Glucose",
+          "unit": "",
+          "reference": "Negative",
+          "value": "nil"
+        },
+        {
+          "name": "Ketones",
+          "unit": "",
+          "reference": "Negative",
+          "value": "nil"
+        },
+        {
+          "name": "Blood",
+          "unit": "",
+          "reference": "Negative",
+          "value": "nil"
+        },
+        {
+          "name": "Nitrites",
+          "unit": "",
+          "reference": "Negative",
+          "value": "negative"
+        },
+        {
+          "name": "Leukocyte Esterase",
+          "unit": "",
+          "reference": "Negative",
+          "value": "nil"
+        },
+        {
+          "name": "Bilirubin",
+          "unit": "",
+          "reference": "Negative",
+          "value": "nil"
+        },
+        {
+          "name": "Urobilinogen",
+          "unit": "EU/dL",
+          "reference": "0.1–1.0",
+          "value": "nil"
+        }
+      ],
+      "requested_by": "Dr. Mukasa",
+      "status": "complete",
+      "requested_at": "2026-04-13T13:05:33.430Z",
+      "result_summary": "Colour: yellow | Clarity: nil | pH: 2-6 | Specific Gravity: nil | Protein: 6 | Glucose: nil | Ketones: nil | Blood: nil | Nitrites: negative | Leukocyte Esterase: nil | Bilirubin: nil | Urobilinogen: nil EU/dL",
+      "notes": ""
+    },
+    {
+      "id": "LAB-1776113214079-zlr3",
+      "patient_id": "KAK-002",
+      "patient_name": "John Mutebi",
+      "test_type": "Chest X-Ray",
+      "category": "radiology",
+      "components": [
+        {
+          "name": "Radiologist Report",
+          "unit": "",
+          "reference": "",
+          "value": "yui"
+        }
+      ],
+      "requested_by": "Dr. Mukasa",
+      "status": "complete",
+      "requested_at": "2026-04-13T20:46:54.079Z",
+      "result_summary": "Radiologist Report: yui",
+      "notes": ""
+    }
+  ],
+  "inventory": [
+    {
+      "id": "MED-001",
+      "name": "Artemether-Lumefantrine (ALU)",
+      "category": "tablet",
+      "unit": "Tablets",
+      "stock": 500,
+      "min_stock": 50
+    },
+    {
+      "id": "MED-002",
+      "name": "Amoxicillin 250mg",
+      "category": "capsule",
+      "unit": "Capsules",
+      "stock": 300,
+      "min_stock": 30
+    },
+    {
+      "id": "MED-003",
+      "name": "Paracetamol 500mg",
+      "category": "tablet",
+      "unit": "Tablets",
+      "stock": 1000,
+      "min_stock": 100
+    },
+    {
+      "id": "MED-004",
+      "name": "ORS Sachets",
+      "category": "other",
+      "unit": "Sachets",
+      "stock": 200,
+      "min_stock": 20
+    },
+    {
+      "id": "MED-005",
+      "name": "Metronidazole 400mg",
+      "category": "tablet",
+      "unit": "Tablets",
+      "stock": 150,
+      "min_stock": 20
+    },
+    {
+      "id": "MED-006",
+      "name": "Folic Acid 5mg",
+      "category": "tablet",
+      "unit": "Tablets",
+      "stock": 400,
+      "min_stock": 40
+    },
+    {
+      "id": "MED-007",
+      "name": "Ferrous Sulphate 200mg",
+      "category": "tablet",
+      "unit": "Tablets",
+      "stock": 350,
+      "min_stock": 35
+    },
+    {
+      "id": "MED-008",
+      "name": "Cotrimoxazole 480mg",
+      "category": "tablet",
+      "unit": "Tablets",
+      "stock": 250,
+      "min_stock": 25
+    },
+    {
+      "id": "MED-009",
+      "name": "Amoxicillin 125mg/5ml Syrup",
+      "category": "syrup",
+      "unit": "Bottles",
+      "stock": 80,
+      "min_stock": 10
+    },
+    {
+      "id": "MED-010",
+      "name": "Gentamicin 80mg Injection",
+      "category": "injection",
+      "unit": "Vials",
+      "stock": 40,
+      "min_stock": 10
+    },
+    {
+      "id": "MED-011-9028",
+      "name": "pain rest",
+      "category": "tablet",
+      "unit": "Tablets",
+      "stock": 30,
+      "min_stock": 10
+    }
+  ],
+  "dispensing": [
+    {
+      "id": "DISP-1776113139617-edcr",
+      "patient_id": "KAK-011",
+      "patient_name": "Levi Mark Kembe",
+      "medication_id": "MED-011-9028",
+      "medication_name": "pain rest",
+      "quantity": 80,
+      "unit": "Tablets",
+      "dispensed_by": "Pharm. Ssekandi",
+      "dispensed_at": "2026-04-13T20:45:39.617Z",
+      "dosage_instructions": "1 tab x 2 for 5 days",
+      "notes": ""
+    }
+  ]
+}

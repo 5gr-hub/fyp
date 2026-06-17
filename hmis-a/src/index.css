@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html { font-family: 'Inter', ui-sans-serif, system-ui, sans-serif; -webkit-font-smoothing: antialiased; }
+  body { @apply bg-slate-50 text-slate-900; font-size: 14px; }
+}
+
+@layer components {
+  .btn { @apply inline-flex items-center gap-2 px-4 py-2 rounded-lg text-sm font-semibold transition-colors disabled:opacity-50 disabled:cursor-not-allowed; }
+  .btn-accent { @apply btn bg-accent-600 hover:bg-accent-700 text-white shadow-sm; }
+  .btn-outline { @apply btn border border-slate-300 bg-white hover:bg-slate-50 text-slate-700; }
+  .btn-danger { @apply btn border border-red-200 hover:bg-red-50 text-red-600; }
+  .card { @apply bg-white rounded-xl border border-slate-200 shadow-card; }
+  .inp { @apply w-full border border-slate-300 rounded-lg px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-accent-500 focus:border-transparent placeholder:text-slate-400 bg-white; }
+  .lbl { @apply block text-xs font-semibold text-slate-500 mb-1 uppercase tracking-wide; }
+  .badge { @apply inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-semibold; }
+}
