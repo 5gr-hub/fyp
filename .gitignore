@@ -1,0 +1,25 @@
+# Node
+node_modules/
+dist/
+.env
+.env.local
+.env.*.local
+
+# PHP / Laravel
+/backend/vendor/
+/backend/.env
+/backend/storage/logs/*.log
+/backend/bootstrap/cache/*.php
+/backend/.phpunit.result.cache
+
+# Vite
+*.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
